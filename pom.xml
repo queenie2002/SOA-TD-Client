@@ -41,7 +41,7 @@
                             </wsdlOptions>
                         </configuration>
                         <goals>
-                            <goal>wsdl2java</goal>
+                            <goal>wsdltojava</goal>
                         </goals>
                     </execution>
                 </executions>
